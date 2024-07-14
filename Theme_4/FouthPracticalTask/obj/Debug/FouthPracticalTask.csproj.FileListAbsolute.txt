@@ -1,0 +1,8 @@
+G:\Repos\FouthPracticalTask\bin\Debug\FouthPracticalTask.exe.config
+G:\Repos\FouthPracticalTask\bin\Debug\FouthPracticalTask.exe
+G:\Repos\FouthPracticalTask\bin\Debug\FouthPracticalTask.pdb
+G:\Repos\FouthPracticalTask\obj\Debug\FouthPracticalTask.csproj.AssemblyReference.cache
+G:\Repos\FouthPracticalTask\obj\Debug\FouthPracticalTask.csproj.SuggestedBindingRedirects.cache
+G:\Repos\FouthPracticalTask\obj\Debug\FouthPracticalTask.csproj.CoreCompileInputs.cache
+G:\Repos\FouthPracticalTask\obj\Debug\FouthPracticalTask.exe
+G:\Repos\FouthPracticalTask\obj\Debug\FouthPracticalTask.pdb

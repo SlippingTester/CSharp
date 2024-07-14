@@ -1,0 +1,8 @@
+G:\Repos\GameOfLife\bin\Debug\GameOfLife.exe.config
+G:\Repos\GameOfLife\bin\Debug\GameOfLife.exe
+G:\Repos\GameOfLife\bin\Debug\GameOfLife.pdb
+G:\Repos\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+G:\Repos\GameOfLife\obj\Debug\GameOfLife.csproj.SuggestedBindingRedirects.cache
+G:\Repos\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+G:\Repos\GameOfLife\obj\Debug\GameOfLife.exe
+G:\Repos\GameOfLife\obj\Debug\GameOfLife.pdb
