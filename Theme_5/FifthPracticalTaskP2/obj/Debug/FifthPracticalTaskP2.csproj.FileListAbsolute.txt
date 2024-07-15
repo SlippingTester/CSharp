@@ -1,0 +1,8 @@
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\bin\Debug\FifthPracticalTaskP2.exe.config
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\bin\Debug\FifthPracticalTaskP2.exe
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\bin\Debug\FifthPracticalTaskP2.pdb
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\obj\Debug\FifthPracticalTaskP2.csproj.AssemblyReference.cache
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\obj\Debug\FifthPracticalTaskP2.csproj.SuggestedBindingRedirects.cache
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\obj\Debug\FifthPracticalTaskP2.csproj.CoreCompileInputs.cache
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\obj\Debug\FifthPracticalTaskP2.exe
+G:\GIT_Repos\CSharp\Theme_5\FifthPracticalTaskP2\obj\Debug\FifthPracticalTaskP2.pdb
