@@ -1,0 +1,8 @@
+G:\GIT_Repos\CSharp\Theme_6\Catalog\bin\Debug\Catalog.exe.config
+G:\GIT_Repos\CSharp\Theme_6\Catalog\bin\Debug\Catalog.exe
+G:\GIT_Repos\CSharp\Theme_6\Catalog\bin\Debug\Catalog.pdb
+G:\GIT_Repos\CSharp\Theme_6\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+G:\GIT_Repos\CSharp\Theme_6\Catalog\obj\Debug\Catalog.csproj.SuggestedBindingRedirects.cache
+G:\GIT_Repos\CSharp\Theme_6\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+G:\GIT_Repos\CSharp\Theme_6\Catalog\obj\Debug\Catalog.exe
+G:\GIT_Repos\CSharp\Theme_6\Catalog\obj\Debug\Catalog.pdb
